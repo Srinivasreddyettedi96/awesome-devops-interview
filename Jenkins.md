@@ -171,7 +171,7 @@
 
 
 #### Question: What is the Jenkins Shared Workspace, and how is it used in Pipelines?
-**Explanation:** The Jenkins Shared Workspace is a feature that allows multiple Pipeline stages to share a common workspace, improving efficiency and reducing the need to transfer files between stages.
+**Explanation:** The Jenkins Shared Workspace is a feature that allows multiple Pipeline stages to share a common workspace,  improving efficiency and reducing the need to transfer files between stages.
 
 
 #### Question: Explain how Jenkins supports integration with testing frameworks.
